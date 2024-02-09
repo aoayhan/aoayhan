@@ -40,7 +40,7 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://en.wikipedia.org/wiki/Postman)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://en.wikipedia.org/wiki/React_Native)
-
+[![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
 <!--
 **aoayhan/aoayhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
